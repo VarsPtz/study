@@ -32,7 +32,7 @@ console.log(user);
 console.log(user.name);
 console.log(user['age']);
 
-console.log(user.favorite football club); //Работать не будет
+// console.log(user.favorite football club); //Работать не будет
 console.log(user["favorite football club"]); //Правильная форма записи
 
  
